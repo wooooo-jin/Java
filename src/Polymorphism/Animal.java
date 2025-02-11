@@ -6,4 +6,7 @@ public class Animal{
         System.out.println("동물 울음 소리");
 
     }
+    public void move(){
+        System.out.println("동물 이동");
+    }
 }
